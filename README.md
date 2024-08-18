@@ -1,3 +1,4 @@
 # BeginnerGuideForHNUers
 海大新生必备攻略请点击右上角的Wiki查看
+
 如果内容帮助到你，欢迎点击右上角Star
